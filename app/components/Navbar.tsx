@@ -52,7 +52,7 @@ const Navbar = () => {
 						/>
 					</Link>
 					<p className="text-white text-[18px] font-bold cursor-pointer flex">
-						Om &nbsp; <span className="sm:block hidden ">| omunite215</span>
+						Mori &nbsp; <span className="sm:block hidden ">| &nbsp; Mori2025</span>
 					</p>
 				</div>
 
